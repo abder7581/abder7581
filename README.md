@@ -5,12 +5,12 @@
 <p align="center">
   <img
     alt="GitHub stats"
-    src="https://github-readme-stats-fast.vercel.app/api?username=0xh7&show_icons=true&theme=radical&hide_border=true"
+    src="https://github-readme-stats-fast.vercel.app/api?username=abder7581&show_icons=true&theme=radical&hide_border=true"
     width="48%"
   />
   <img
     alt="GitHub streak"
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=0xh7&theme=radical&hide_border=true"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=abder7581&theme=radical&hide_border=true"
     width="48%"
   />
 </p>
